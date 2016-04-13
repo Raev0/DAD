@@ -7,4 +7,4 @@ this py can generate a folder naming with the system date. The effect is somethi
 <div align="center"><img width="512" src="https://github.com/Raev0/DAD/blob/master/DAD_01_generator.py/images/factory.png" /></div>
 ## DAD_02_ProcessWatcher
 This file prevent our node server from been killed. The effect is something like this:
-![](https://github.com/Raev0/DAD/blob/master/DAD_02_ProcessWatcher/images/processshow.png)
+<div align="center"><img width="512" src="https://github.com/Raev0/DAD/blob/master/DAD_02_ProcessWatcher/images/processshow.png" /></div>
