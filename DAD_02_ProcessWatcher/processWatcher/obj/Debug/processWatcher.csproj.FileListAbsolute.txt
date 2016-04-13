@@ -1,0 +1,6 @@
+C:\Users\todd\Documents\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\processWatcher.csprojResolveAssemblyReference.cache
+C:\Users\todd\Documents\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\processWatcher.exe.config
+C:\Users\todd\Documents\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\processWatcher.exe
+C:\Users\todd\Documents\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\processWatcher.pdb
+C:\Users\todd\Documents\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\processWatcher.exe
+C:\Users\todd\Documents\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\processWatcher.pdb
