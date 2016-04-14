@@ -1,0 +1,222 @@
+英文                    台湾惯用术语                            大陆惯用术语
+abstract                抽象的                                  抽象的
+abstraction             抽象体、抽象物、抽象性                  抽象体、抽象物、抽象性
+access                  存取、取用                              存取、访问
+access function         存取函式                                存取函数
+address-of operator     取址运算子 &                            取地址运算符
+algorithm               演算法                                  算法
+argument                引数（传给函式的值）. 叁见 parameter    叁数
+array                   阵列                                    数组
+arrow operator          arrow（箭头）运算子 ->                  箭头运算符
+assembly language       组合语言                                汇编语言
+assign                  指派、指定、设值                        赋值
+assignment              指派、指定                              赋值、分配
+assignment operator     assignment（指派）运算子 =              赋值运算符
+associated              相应的、相关的                          相关的、关联、相应的
+associative container   关联式容器（对应 sequential container） 关联式容器
+base class              基础类别                                基类
+best viable function    最佳可行函式                            最佳可行函式
+                        （从 viable functions 中挑出的最佳吻合者）
+binary tree             二元树                                  二叉树
+binary operator         二元运算子                              二元运算符
+binding                 系结                                    绑定
+bit                     位元                                    位
+bitwise                 以 bit 为单元┅、位元逐一┅             ?
+bitwise copy            以 bit 为单元进行复制、位元逐一复制     位拷贝
+block                   区块                                    块、分组
+boolean                 布林值（真假值，true 或 false）         布尔值
+byte                    位元组（8 bits 组成）                   字节
+call                    呼叫、叫用                              调用
+call operator           call（函式呼叫）运算子 ()               调用运算符
+                        （同 function call operator）
+chain                   串链（例 chain of function calls）      链
+child class             子类别（或称为derived class, subtype）  子类
+class                   类别                                    类
+class body              类别本体                                类体 ?
+class declaration       类别宣告、类别宣告式                    类声明
+class definition        类别定义、类别定义式                    类定义
+class derivation list   类别衍化列                              类继承列表
+class head              类别表头                                类头 ?
+class hierarchy         类别继承体系                            ?
+class library           类别程式库、类别库                      类库
+class template          类别范本、类别模板、类别样板            类模板
+class template partial specializations
+                       类别范本局部特制体、                     类模板部分特化
+                       类别范本局部特殊化
+class template specializations
+                        类别范本特制体、类别范本特殊化          类模板特化
+cleanup                 清理、善後                              清理、清除
+candidate function      候选函式                                候选函数
+                        （在函式多载决议程序中出现的候选函式）
+command line            命令行                                  命令行
+                        （系统文字模式提示号之後所下的整行命令）
+compiler                编译器                                  编译器
+component               组件                                    组件
+concrete                具象的                                  实在的
+container               容器                                    容器
+                        （存放资料的某种结构如 list, vector...）
+context                 背景关系、周遭环境、上下脉络            环境、上下文
+const                   常数（constant 的缩写，C++ 关键字）
+constant                常数（相对於 variable）                 常数
+constructor（ctor）     建构式                                  构造函数、构造器
+                        （与class 同名的一种 member functions）
+data                    资料                                    数据
+data member             资料成员、成员变数                      数据成员、成员变量
+data structure          资料结构                                数据结构
+declaration             宣告、宣告式                            声明
+deduction               推导（例：template argument deduction） 推导、推断
+default                 预设                                    缺省、默许
+definition              定义、定义区、定义式                    定义
+dereference             提领（取出指标所指物体的内容）          ?
+dereference operator    dereference（提领）运算子 *             ?
+derived class           衍生类别                                派生类
+destructor（dtor）      解构式                                  析构函数、析构器
+device                  装置                                    设备
+directive               指令（例：using directive）             （编译）指示符
+dot operator            dot（句点）运算子 .                     点运算符
+driver                  驱动程式                                驱动
+dynamic binding         动态系结                                动态绑定
+entity                  物体                                    实体、物体
+encapsulation           封装                                    封装
+enclosing class         外围类别（与巢状类别 nested class 有关）?
+enum (enumeration)      列举（一种 C++ 资料型别）               枚举
+enumerators             列举元（enum 型别中的成员）             枚举成员、枚举器
+equality operator       equality（等号）运算子  ==              等号运算符
+evaluate                评估、求值、核定                        评估
+exception               异常情况                                异常
+exception declaration   异常宣告（ref. C++ Primer 3/e, 11.3）   异常声明
+exception handling      异常处理、异常处理机制                  异常处理、异常处理机制
+exception specification 异常规格（ref. C++ Primer 3/e, 11.4）   异常规范
+exit                    退离（指离开函式时的那一个执行点）      退出
+explicit                明白的、明显的、显式                    显式
+export                  汇出                                    引出、导出
+expression              运算式、算式                            表达式
+facility                设施、设备                              设施、设备
+flush                   清理、扫清                              刷新
+formal parameter        形式叁数                                形式叁数
+forward declaration     前置宣告                                前置声明
+framework               框架                                    框架
+function                函式、函数                              函数
+function call operator  （同 call operator）
+function object         函式物件（ref. C++ Primer 3/e, 12.3）   函数对象
+function overloaded resolution
+                        函式多载决议程序                        函数重载解决（方案）
+function template       函式范本、函式模板、函式样板            函数模板
+generic                 泛型、一般化的                          一般化的、通用的、泛化
+generic algorithm       泛型演算法                              通用算法
+global                  全域性的（对应於 local）                全局的
+global scope resolution operator
+                        全域生存空间（范围决议）运算子 ::       全局范围解析运算符
+handler                 处理常式                                处理函数
+hardware                硬体                                    硬件
+header file             表头档、标头档                          头文件 ?
+hierarchy               阶层体系                                层次结构（体系）
+identifier              识别符号                                标识符
+immediate base          直接的（紧临的）上层 base class。       直接上层基类
+immediate derived       直接的（紧临的）下层 derived class。    直接下层派生类
+implement               实作                                    实现
+implementation          实作品、实作物、实作体、实作码          实现
+implicit                隐喻的、暗自的、隐式                    隐式
+import                  汇入                                    ?
+increment operator      累加运算子 ++                           增加运算符
+inheritance             继承、继承机制                          继承、继承机制
+inline                  行内                                    内联
+inline expansion        行内展开                                内联展开
+initialization          初始化（动作）                          初始化
+initialization list     初值列                                  初始值列表
+initialize              初始化                                  初始化
+instance                实体                                    实例
+                        （常指根据 class 而产生出来的 object）
+instantiated            具现化（应用於 template）               实例化
+instantiation           具现体、具现化实体（常应用於 template） 实例
+invoke                  唤起                                    调用
+iterate                 迭代（回圈一个轮回一个轮回地进行）      迭代
+iterator                迭代器（一种泛型指标）                  迭代器
+iteration               迭代（回圈每次轮回称为一个 iteration）  迭代
+library                 程式库、函式库                          库、函数库
+lifetime                生命期、生命周期、寿命                  生命期、寿命
+linker                  联结器、连结器                          连接器
+literal constant        字面常数（例 3.14 或 "hi" 这等常数值）  字面常数
+list                    串列（linked-list）                     列表、表
+local                   区域性的（对应於 global）               局部的
+lvalue                  左值                                    左值
+macro                   巨集                                    宏
+manipulator             操纵器（iostream 预先定义的一种东西）   操纵器
+mechanism               机制                                    机制
+member                  成员                                    成员
+member access operator  成员取用运算子（有 dot 和 arrow 两种）  成员存取运算符
+member function         成员函式                                成员函数
+member initialization list
+                        成员初值列                              成员初始值列表
+memberwise              以 member 为单元┅、members 逐一┅      以成员为单位
+memberwise copy         以 members 为单元逐一复制
+memory                  记忆体                                  内存
+micro                   微                                      微
+most derived class      最末层的 derived class                  最底层的派生类
+mutable                 可变的                                  可变的
+namespace               命名空间                                名字空间、命名空间
+nested class            巢状类别                                嵌套类
+object                  物件                                    对象
+object oriented         物件导向                                面向对象
+operand                 运算元                                  操作数
+operation               操作行为                                操作
+operator                运算子                                  操作符、运算符
+option                  选项                                    选项
+overflow                上限溢位（相对於 underflow）            溢出（underflow:下溢）
+overhead                额外负担                                负担
+overload                多载化、多载化、重载                    重载
+overloaded function     多载化函式                              重载的函数
+overloaded operator     多载化运算子                            被重载的运算符
+overloaded set          多载集合                                重载集合
+override                改写、覆写                              重载、改写、重新定义
+                        （在 derived class 中重新定义虚拟函式
+parameter               叁数（函式叁数列上的变数）              叁数
+parameter list          叁数列                                  叁数列表
+parent class            父类别（或称 base class）               父类
+parse                   解析                                    解析
+partial specialization  局部特化、局部特化定义、局部特化宣告    局部特化
+                        （ref. C++ Primer 3/e, 16.10）
+pass by address         传址（函式引数的传递方式）              传地址
+pass by reference       传址（函式引数的传递方式）              传地址
+pass by value           传值（函式引数的传递方式）              传值
+pattern                 样式                                    模式
+placement delete        ref. C++ Primer 3/e, 15.8.2
+placement new           ref. C++ Primer 3/e, 15.8.2
+platform                平台                                    平台
+pointer                 指标                                    指针
+polymorphism            多型                                    多态
+preprocessor            前处理器                                预处理器
+programmer              程式员                                  程序员
+programming             编程、程式设计、程式化                  编程、程式设计
+project                 专案                                    工程
+pseudo code             假码、虚拟码                            伪码
+qualified               经过资格修饰（例如加上 scope 运算子）   限定 ?
+qualifier               资格修饰词                              限定修饰词 ?
+queue                   伫列                                    队列
+raise                   引发（常用来表示发出一个 exception）    引起、引发
+rank                    等级、分等（ref. C++Primer 3/e 9,15章） 等级
+raw                     生鲜的、未经处理的                      未经处理的
+refer                   取用                                    叁考
+reference              （C++ 中类似指标的东西，相当於 "化身"）  引用、叁考
+represent               表述，表现                              表述，表现
+resolve                 决议（为算式中的符号名称寻找            解析
+                              对应之宣告式的过程）
+resolution              决议程序、决议过程                      解析过程
+rvalue                  右值                                    右值
+scope                   生存空间、生存范围                      生存空间
+scope operator          生存空间（范围决议）运算子  ::          生存空间运算符
+scope resolution operator
+                        生存空间决议运算子                      生存空间解析运算符
+                        （与scope operator同）
+sequential container    循序式容器                              顺序式容器
+                        （对应於 associative container）
+specialization          特殊化、特殊化定义、特殊化宣告          特化
+software                软体                                    软件
+source                  原始码                                  源码、源代码
+stack                   堆叠                                    堆栈
+stack unwinding         堆叠辗转开解（此词用於 exception 主题） 堆栈辗转开解 *
+statement               述句                                    语句、声明
+stream                  资料流                                  流
+string                  字串                                    字符串
+subscript operator      下标运算子 [ ]                          下标运算符
+subtype                 子型别       
